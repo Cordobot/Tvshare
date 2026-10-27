@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tvshare</string>
+    <string name="notification_channel">Transmisión de pantalla</string>
+    <string name="notification_title">Transmitiendo pantalla</string>
+    <string name="notification_waiting">Esperando PC en %1$s</string>
+    <string name="notification_clients">%1$d PC conectado(s)</string>
+    <string name="notification_stop">Detener</string>
+</resources>
