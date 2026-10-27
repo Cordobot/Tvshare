@@ -85,3 +85,5 @@ Requisitos: Android Studio reciente (AGP 9), JDK 17+, Android SDK 37.
 ---
 
 Desarrollado por **Adrián Alvarez** ([@Cordobot](https://github.com/Cordobot)).
+
+© 2026 Adrián Alvarez. Todos los derechos reservados.
